@@ -90,7 +90,7 @@ Clone this repository locally:
 
 3. The search results will be displayed on the screen.
 
-- backund must run at http://localhost:3000
+- Backend must run at http://localhost:3000
 - Open your browser and access the provided link: http://localhost:5173 
 
 ### Future Improvements
